@@ -1,8 +1,8 @@
 Time Stamps: 
 00:00:00 — Introduction
 00:05:58 — Next.js Setup - done 
-00:19:51 — Routes Setup - running 24:30
-00:27:26 — Navbar
+00:19:51 — Routes Setup - done
+00:27:26 — Navbar - running 34:00
 00:37:14 — Home Page Part.1 - Companion Card
 00:47:38 — Home Page Part.2 - Companion List & CTA
 01:05:04 — Companion Form
