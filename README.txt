@@ -10,12 +10,12 @@ Time Stamps:
 01:30:33 — Clerk Billing - done
 01:39:25 — Supabase Setup & Clerk Integration - done
 01:47:34 — Supabase Implementation - done
-01:58:26 — Companion Library - running
-02:23:16 — Vapi Setup & Header
-02:36:55 — AI Companion Conversation
-03:14:40 — Sentry Setup
-03:21:31 — Conversation(s) / Session history
-03:30:33 — Profile Page / My Journey
-03:40:35 — Clerk Subscription Checks
-03:50:34 — Bookmarks
+01:58:26 — Companion Library - done
+02:23:16 — Vapi Setup & Header - done
+02:36:55 — AI Companion Conversation - done
+03:14:40 — Sentry Setup - done
+03:21:31 — Conversation(s) / Session history - done
+03:30:33 — Profile Page / My Journey - done
+03:40:35 — Clerk Subscription Checks - done
+03:50:34 — Bookmarks - running
 03:51:19 — Deployment
