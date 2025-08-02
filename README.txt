@@ -17,5 +17,5 @@ Time Stamps:
 03:21:31 — Conversation(s) / Session history - done
 03:30:33 — Profile Page / My Journey - done
 03:40:35 — Clerk Subscription Checks - done
-03:50:34 — Bookmarks - running
-03:51:19 — Deployment
+03:50:34 — Bookmarks - done
+03:51:19 — Deployment done
